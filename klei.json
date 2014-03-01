@@ -1,0 +1,4 @@
+{
+  "name": "famcentric",
+  "parts": ["express", "mongo", "angular"]
+}
